@@ -1,2 +1,2 @@
 # cydiaDeb
-put some cydia deb for research
+A collection of various awesome cydiaDebs for hackers, pentesters and security researchers
